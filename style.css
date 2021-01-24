@@ -389,7 +389,7 @@ hr {
 
 @media only screen and (max-width: 500px) {
 
-	#home, #projects, #contact{
+	#home, #about, #projects, #contact{
         overflow-x: hidden;
 	}
 	header{
