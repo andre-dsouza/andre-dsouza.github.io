@@ -159,6 +159,31 @@ a.nav-link{
 	text-shadow: 0 0 50px var(--main-decor-color);
 }
 
+
+/*──────────────────
+      about
+──────────────────*/
+
+#about{
+	margin-top:100px;
+    height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    justify-content: center;
+	text-align:center;
+	color: var(--main-fonts-color);
+}
+#about h3{
+    padding-top: 70px;
+}
+#about p{
+	font-family: var(--main-font-family);
+	font-size:1.2rem;
+	padding: 10px;
+}
+
+
 /*──────────────────
       projects
 ──────────────────*/
